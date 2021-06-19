@@ -1,0 +1,15 @@
+A. Briefly describe the artifact. What is it? When was it created?   
+
+     The artifact that I chose for this project was from CS 350 Emerging System Architecture & Technology.  This project takes temperature and humidity readings in a room from a Raspberry Pi kit and records the data in a json file and then displays this data on a line chart.  The initial project was worked on during the 20EW2 term.
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+
+     I chose this program because it was the first time that I have ever worked with Raspberry Pi system and creating something that could take readings from a room and display them on a LCD screen and drop the data into a json file and allow you to view that data on a chart.  The initial project worked, however, I struggled to get my data to append and save all the readings that were being captured along with displaying correctly on a chart.  I was able to update the code to capture the readings correctly and pull the data into a chart.
+
+C.  Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+
+     This project was chosen since it displays the knowledge of taking an outside system and creating a code base that can capture specific information with the various sensors that work with the Raspberry Pi and having the ability to capture and show an output of the data that is being captured. 
+
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+     
+     During this project, I had difficulties getting the data to append correctly to the json file, when the process was stopped it would only capture the last reading on the LCD screen and dump that into the json file.  After researching various ways to update and append code to a json file, I was able to accurately capture the data and store it correctly in the json file.  I was also able to get my data to display correctly on the graph.  While the graph can only be displayed correctly with Firefox, it still renders with the correct data points. 
