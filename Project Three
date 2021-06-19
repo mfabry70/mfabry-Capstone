@@ -1,0 +1,14 @@
+A. Briefly describe the artifact. What is it? When was it created? 
+
+     The artifact that I chose for this project was from CS 340 Client/Server Development.  This project creates a database in Mongo and creates a Restfull API that allows user to query within the database.  This class was taken during 20EW1 term.
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+     I chose this project because it was my first introduction into creating databases within a mongo database environment.  While I have been able to create the database and import information from a json file and can manipulate the data within the database, I am still struggling with how to incorporate a Restful API into the mix.  
+
+C.  Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+     
+     This project was chosen since it displays the knowledge of creating a database within mongo and modifying the database, along with creating a RESTfull API and creating the queries that allow you to find and/or manipulate data within the database.  This process requires both the knowledge of how to correctly structure the databases along with working with creating queries in Python.
+
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+     
+     I found this project to be much more difficult than expected.  I at first had a hard time finding the correct environment to work within to create a mongo database, once I was able to gain access and work within Codio, it became much easier.  I was able to create the databases and work within those functions.  Creating the RESTfull API is still a struggle and while I feel that it is correct I still feel uncomfortable working with this process.  
